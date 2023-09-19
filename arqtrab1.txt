@@ -6,4 +6,4 @@ Documentos de requisitos
 Casos de uso
 Historia de usuario
 ------------------------
-Sistema
+Sistema do trabalho
