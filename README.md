@@ -1,4 +1,4 @@
-# Trabalho de Gerencia de Configuração do Campus Quixadá - UFC
+# Controle de Hábitos
 
 O nosso sistema de Criação e Gerenciamento de Hábitos Diários visa ajudar os usuários a desenvolver hábitos saudáveis e produtivos em suas vidas diárias. O sistema oferece uma experiência unificada em plataformas web (React) e dispositivos móveis (React Native), fornecendo uma solução abrangente para o acompanhamento e a melhoria de hábitos pessoais.
 
